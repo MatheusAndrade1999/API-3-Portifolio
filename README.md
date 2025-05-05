@@ -90,8 +90,12 @@ Sou estudante de Análise e Desenvolvimento de Sistemas na FATEC SJC, com foco e
 
 #### **4. Responsividade e UX**
 - Design **mobile-first**.
-- Uso de `Chart.js` (gráficos) e `MUI` (componentes).
-  
+- ![MOBILE](https://github.com/user-attachments/assets/513579f2-0e23-497a-9850-c896cb7a5e18)
+
+- Uso de `Chart.js` (gráficos) e `MUI` (componentes)
+- ![MOBILE LOGIN](https://github.com/user-attachments/assets/0e265d6c-e109-4399-8503-eefa0d1278ae)
+
+
 #### Hard Skills
 
 - React: Sei fazer com autonomia (componentes complexos, gerenciamento de estado).
