@@ -48,15 +48,27 @@ Sou estudante de Análise e Desenvolvimento de Sistemas na FATEC SJC, com foco e
 #### **1. Desenvolvimento dos Níveis de Acesso**
 - **Admin**:
   - Telas para cadastro de usuários (classificação como `Líder`, `Liderado` ou ambos).
-  - Módulos de cadastro de pesquisas (`Autoavaliação`, `Avaliação de Liderança`, `Avaliação de Liderado`).
-  - Interface para categorias de perguntas (Hard Skill, Soft Skill, etc.).
+  - ![Tela login](https://github.com/user-attachments/assets/337a6a18-6b1f-48f9-a97c-3e865c69a197)
 
+  - Módulos de cadastro de pesquisas (`Autoavaliação`, `Avaliação de Liderança`, `Avaliação de Liderado`).
+  - ![criarforms](https://github.com/user-attachments/assets/c5912b1d-3896-408c-a354-96938e1afb10)
+
+  - Interface para categorias de perguntas (Hard Skill, Soft Skill, etc.).
+  - ![dashforms](https://github.com/user-attachments/assets/ae24e931-281e-4a89-8b92-669c7d609da9)
+
+   
 - **Líderes**:
   - Visualização de informações pessoais e de liderados.
+  - ![dashinicialusuario](https://github.com/user-attachments/assets/4a16e2d9-3f9f-4ab5-8103-6b4e445a2d26)
+
   - Respostas às pesquisas de `Avaliação de Liderança`, `Autoavaliação` e `Avaliação de Liderado`.
+  - ![respostasusariosporadmin](https://github.com/user-attachments/assets/f6c723d7-e88f-42cd-b8f2-c80319f5c7a0)
+
 
 - **Liderados**:
   - Acesso às informações pessoais e resposta à `Autoavaliação`.
+  - ![respostasusuarios](https://github.com/user-attachments/assets/4ef5679a-d241-4caf-a88b-435312b53b87)
+
 
 #### **2. Sistema de Pesquisas (RF2)**
 - **Formulários Dinâmicos**:
